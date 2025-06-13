@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Kim Vladislav | frontend developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00A2&width=435&lines=Hi%2C+uxearwenvcmsqg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00A2&width=435&lines=%2C+uxearwenvcmsqg" />
 </p>
 
 ---
@@ -50,15 +50,6 @@
 
 </div>
 
----
-
-### 🎨 Just for Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-</p>
-
----
 
 ### 📬 Contact
 
