@@ -50,3 +50,7 @@
 - 📫 Reach me on Telegram: [@uxearwenvcmsqg](https://t.me/uxearwenvcmsqg)
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9idDZkMGZtMnlubnY3czZ3djU3cnJ2ZWNhN2U4Y2M4a3ZsMWpxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GWtmVsF9ZADjS/giphy.gif" width="400" alt="anime" />
+</p>
