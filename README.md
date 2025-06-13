@@ -1,4 +1,4 @@
-\<h1 align="center">Hi there 👋, I'm Kim Vladislav</h1>
+<h1 align="center">Hi there 👋, I'm Kim Vladislav</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CCFF&center=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript+Enthusiast;Clean+Code+%26+UI%2FUX+Lover" alt="Typing SVG" />
