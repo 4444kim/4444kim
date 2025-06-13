@@ -52,5 +52,5 @@
 ---
 
 <p align="center">  
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350" alt="Ace Fire Fist" />  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9idDZkMGZtMnlubnY3czZ3djU3cnJ2ZWNhN2U4Y2M4a3ZsMWpxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GWtmVsF9ZADjS/giphy.gif" width="350" alt="Ace Night Flame Aura" />  
 </p>
