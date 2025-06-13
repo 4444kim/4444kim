@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Vladislav Kim</h1>
+<h1 align="center">Hi there👋, I'm Kim Vladislav</h1>
 <h3 align="center">🧠 Frontend Developer | Student at MUIT</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Currently studying at MUIT  
+- 🎓 Currently studying at IITU  
 - 💻 Passionate about frontend development and modern web technologies  
 - 🧠 Always improving my skills through real projects  
 - 📫 Reach me on Telegram: [@uxearwenvcmsqg](https://t.me/uxearwenvcmsqg)
@@ -70,8 +70,4 @@
   <a href="https://t.me/uxearwenvcmsqg" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <strong>💬 Thanks for stopping by!</strong>  
 </p>
