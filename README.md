@@ -7,7 +7,6 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
@@ -28,28 +27,16 @@
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?style=flat&logo=webpack)
-
 </div>
 
 ---
-
 ### 📊 GitHub Stats
-
 <div align="center">
-
 ![4444kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=4444kim&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4444kim&layout=compact&theme=radical)
-
 </div>
-
-
 ---
 
-### 🚀 About Me
-
+### Contacts
 - 📫 Reach me on Telegram: [@uxearwenvcmsqg](https://t.me/uxearwenvcmsqg)
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/4444kim/4444kim/main/assets/night-coding.png" alt="Midnight Coding by Kim Vladislav" />
-</p>
