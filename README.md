@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kim Vladislav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C2DC7&center=true&width=600&lines=frontend+developer+%2B+cleanliness+%2B+responsibility+%2B+virtue+%2B+discipline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C2DC7&center=true&width=600&lines=frontend+developer;cleanliness;responsibility;virtue;discipline" alt="Typing SVG" />
 </p>
 
 ---
