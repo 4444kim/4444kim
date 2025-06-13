@@ -51,6 +51,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/5Vhfr8H.gif" width="350" alt="Portgas D. Ace flame aura at night" />
-</p>
+![Animated Profile](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
