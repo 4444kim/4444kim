@@ -38,10 +38,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=4444kim&show_icons=true&theme=radical&title_color=00CCFF&icon_color=00CCFF&text_color=ffffff&bg_color=0,000000,080838" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=4444kim&show_icons=true&theme=radical&title_color=00CCFF&icon_color=00CCFF&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4444kim&layout=compact&theme=radical&title_color=00CCFF&text_color=ffffff&bg_color=0,000000,080838" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4444kim&layout=compact&theme=radical&title_color=00CCFF&text_color=ffffff&bg_color=00000000" alt="Top Languages" />
     </td>
   </tr>
 </table>
