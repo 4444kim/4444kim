@@ -1,17 +1,13 @@
-<h1 align="center">Hi there👋, I'm Kim Vladislav</h1>
-<h3 align="center">🧠 Frontend Developer | Student at MUIT</h3>
+<h1 align="center">Hi there👋, I'm Kim Vladislav | frontend developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00A2&width=435&lines=Hi%2C+I'm+Zen!;Frontend+Developer;I+love+React+%2F+Next.js;Always+learning+and+improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00A2&width=435&lines=Hi%2C+uxearwenvcmsqg" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Currently studying at IITU  
-- 💻 Passionate about frontend development and modern web technologies  
-- 🧠 Always improving my skills through real projects  
 - 📫 Reach me on Telegram: [@uxearwenvcmsqg](https://t.me/uxearwenvcmsqg)
 
 ---
