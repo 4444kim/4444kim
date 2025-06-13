@@ -52,5 +52,5 @@
 ---
 
 <p align="center">  
-  <img src="https://media.giphy.com/media/bnke0vesbcjjxtgn/giphy.gif" width="350" alt="Ace Fire Attack" />  
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350" alt="Ace Fire Fist" />  
 </p>
