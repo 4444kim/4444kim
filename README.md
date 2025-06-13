@@ -50,5 +50,6 @@
 - 📫 Reach me on Telegram: [@uxearwenvcmsqg](https://t.me/uxearwenvcmsqg)
 
 ---
-
-![Animated Profile](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/4444kim/4444kim/main/assets/night-coding.png" alt="Midnight Coding by Kim Vladislav" />
+</p>
