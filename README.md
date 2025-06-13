@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Kim Vladislav</h1>
+<h1 align="center" style="color:#6C2DC7;">Hi there 👋, I'm Kim Vladislav</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C2DC7&center=true&width=600&lines=frontend+developer;cleanliness;responsibility;virtue;discipline" alt="Typing SVG" />
@@ -6,9 +6,10 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<h3 style="color:#6C2DC7;">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
+  <!-- Стек технологий оставлен без изменений -->
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" />
@@ -33,21 +34,23 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 style="color:#6C2DC7;">📊 GitHub Stats</h3>
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=4444kim&show_icons=true&theme=radical&title_color=00CCFF&icon_color=00CCFF&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=4444kim&show_icons=true&theme=radical&title_color=6C2DC7&icon_color=6C2DC7&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4444kim&layout=compact&theme=radical&title_color=00CCFF&text_color=ffffff&bg_color=00000000" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4444kim&layout=compact&theme=radical&title_color=6C2DC7&text_color=ffffff&bg_color=00000000" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📬 Contacts
+<h3 style="color:#6C2DC7;">📬 Contacts</h3>
 
-- Telegram: [@uxearwenvcmsqg](https://t.me/uxearwenvcmsqg)
+<ul>
+  <li><span style="color:#6C2DC7;">Telegram:</span> <a href="https://t.me/uxearwenvcmsqg">@uxearwenvcmsqg</a></li>
+</ul>
