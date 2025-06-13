@@ -1,16 +1,8 @@
 <h1 align="center">Hi there👋, I'm Kim Vladislav | frontend developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00A2&width=435&lines=%2C+uxearwenvcmsqg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00A2&width=435&lines=uxearwenvcmsqg" />
 </p>
-
----
-
-### 🚀 About Me
-
-- 📫 Reach me on Telegram: [@uxearwenvcmsqg](https://t.me/uxearwenvcmsqg)
-
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -51,10 +43,10 @@
 </div>
 
 
-### 📬 Contact
+---
 
-<p align="center">
-  <a href="https://t.me/uxearwenvcmsqg" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
+### 🚀 About Me
+
+- 📫 Reach me on Telegram: [@uxearwenvcmsqg](https://t.me/uxearwenvcmsqg)
+
+---
